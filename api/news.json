@@ -1,0 +1,223 @@
+{
+  "news": [{
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": null,
+    "title": "Listen: Ellie Kemper Reads ‘When Mothers Bully Back’",
+    "description": "This week on Modern Love: The Podcast, the “Unbreakable Kimmy Schmidt” star tells the story of a woman who tests the limits of parental protectiveness.",
+    "url": "https://www.nytimes.com/2018/08/08/style/modern-love-podcast-ellie-kemper.html",
+    "urlToImage": "https://static01.nyt.com/images/2017/03/12/fashion/12MODLOVE/12MODLOVE-facebookJumbo-v2.jpg",
+    "publishedAt": "2018-08-08T21:17:34Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "ROD NORDLAND",
+    "title": "An Acclaimed Photographer in Bangladesh Says He Was Tortured",
+    "description": "Shahidul Alam, Bangladesh’s best-known photojournalist, was arrested after posting Facebook video in which he appeared to criticize the government’s handling of recent student-led protests.",
+    "url": "https://www.nytimes.com/2018/08/08/world/asia/bangladesh-photographer-shahidul-alam.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/world/09bangladesh1sub/09bangladesh1sub-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T20:44:57Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "SEWELL CHAN",
+    "title": "Joseph Kabila, Congo Strongman, Will Step Down After 17 Years in Power",
+    "description": "Joseph Kabila, shown speaking before Parliament in Kinshasa last month, announced Wednesday that he will not seek a third term as President.",
+    "url": "https://www.nytimes.com/2018/08/08/world/africa/joseph-kabila-congo.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/world/09congo/09congo-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T20:44:20Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "CHARLES McDERMID",
+    "title": "Asia and Australia Edition: Chris Collins, Tesla, Trade War: Your Thursday Briefing",
+    "description": "Here’s what you need to know to start your day.",
+    "url": "https://www.nytimes.com/2018/08/08/briefing/chris-collins-tesla-trade-war.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/08/briefing/09ambriefing-asia-promo/09ambriefing-asia-slide-40CQ-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T20:21:01Z"
+  }, {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Dave Michaels",
+    "title": "SEC Inquired About Tesla CEO Musk's Tweets",
+    "description": "The regulator is examining whether Mr. Musk’s statement was truthful and inquired why the disclosure was made on Twitter.",
+    "url": "https://www.wsj.com/articles/sec-has-made-inquiries-to-tesla-over-elon-musks-taking-private-tweet-1533757570",
+    "urlToImage": "https://images.wsj.net/im-21429/social",
+    "publishedAt": "2018-08-08T20:19:46Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": null,
+    "title": "Mets Finally Reward Jacob deGrom With a Victory - New York Times",
+    "description": "New York Times Mets Finally Reward Jacob deGrom With a Victory New York Times Jacob deGrom tossed six scoreless innings and finally received some run support Wednesday afternoon, when the Mets' ace ended a seven-start winless streak to earn the victory as the…",
+    "url": "https://www.nytimes.com/2018/08/08/sports/mets-vs-reds-jacob-degrom.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/08/sports/mets-degrom/mets-degrom-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T20:18:44Z"
+  }, {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Paul Berger",
+    "title": "New York City Council Votes to Cap Uber and Lyft",
+    "description": "New York plans to cap ride-hailing services including Uber and Lyft, becoming the first U.S. city to take such a step.",
+    "url": "https://www.wsj.com/articles/new-york-city-council-votes-to-cap-uber-and-lyft-1533759263",
+    "urlToImage": "https://images.wsj.net/im-21377/social",
+    "publishedAt": "2018-08-08T20:14:25Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "EMMA G. FITZSIMMONS",
+    "title": "Uber Hit With Cap as New York City Takes Lead in Crackdown",
+    "description": "Drivers of for-hire vehicles on Wednesday demonstrated in support of a cap on ride-hail vehicles outside City Hall.",
+    "url": "https://www.nytimes.com/2018/08/08/nyregion/uber-vote-city-council-cap.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/nyregion/09cap1/09cap1-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T20:11:36Z"
+  }, {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Nick Timiraos",
+    "title": "CBO: Debt Will Rise to ‘Unsustainable’ Levels if Congress Extends Tax Cuts, Maintains Spending",
+    "description": "Extending recently approved spending increases and tax cuts would create an “unsustainable” fiscal outlook, the Congressional Budget Office said in a report published Wednesday.",
+    "url": "https://blogs.wsj.com/economics/2018/08/08/cbo-debt-will-rise-to-unsustainable-levels-if-congress-extends-tax-cuts-maintains-spending/",
+    "urlToImage": "https://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social",
+    "publishedAt": "2018-08-08T20:10:25Z"
+  }, {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Nicolas Parasie",
+    "title": "Saudi Billionaire Resumes Global Deal-Making",
+    "description": "Saudi Prince al-Waleed bin Talal’s $500 million spending spree on technology firms this week marks the billionaire’s return to international deal-making, after he was ensnared in a corruption crackdown at home.",
+    "url": "https://www.wsj.com/articles/saudi-billionaire-resumes-his-global-deal-making-1533755337",
+    "urlToImage": "https://images.wsj.net/im-21381/social",
+    "publishedAt": "2018-08-08T20:09:58Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "Brian X. Chen",
+    "title": "The Internet Trolls Have Won. Sorry, There’s Not Much You Can Do.",
+    "description": "When it comes to online comments and discourse and what you can do to limit their toxicity, you only have a certain amount of power. The real leverage lies with the tech companies.",
+    "url": "https://www.nytimes.com/2018/08/08/technology/personaltech/internet-trolls-comments.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/business/09Techfix/merlin_142096116_a03f94f0-c7d9-4fb1-8ada-77de7b9eff5b-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T20:07:31Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "https://www.nytimes.com/by/christina-caron",
+    "title": "11-Year-Old Stunned With Taser by Ohio Officer Who Suspected Her of Stealing - New York Times",
+    "description": "New York Times 11-Year-Old Stunned With Taser by Ohio Officer Who Suspected Her of Stealing New York Times A Cincinnati police officer stunned an 11-year-old girl with a Taser on Monday, the city's Police Department said, setting off anger and driving officia…",
+    "url": "https://www.nytimes.com/2018/08/08/us/taser-cincinnati-police-girl.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/us/09xp-taser/09xp-taser-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:53:21Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "GARDINER HARRIS",
+    "title": "U.S. to Issue New Sanctions Against Russia Over Spy Poisoning",
+    "description": "The Trump administration announced on Wednesday that it would soon impose new sanctions on Russia for violating American and international laws by attempting to assassinate a former Russian spy.",
+    "url": "https://www.nytimes.com/2018/08/08/world/europe/sanctions-russia-poisoning-spy-trump-putin.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/us/politics/09dc-sanctions/merlin_141463833_28baa2a7-8cea-49e6-b865-649b2e5bc1d3-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:50:01Z"
+  }, {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Alan Cullison",
+    "title": "US to Impose New Sanctions on Russia Over Nerve Agent Attack in UK - Wall Street Journal",
+    "description": "Wall Street Journal US to Impose New Sanctions on Russia Over Nerve Agent Attack in UK Wall Street Journal Breaking News. WASHINGTON—The U.S. announced new sanctions against Russia on Wednesday over the nerve agent attack against a former Russian spy and his …",
+    "url": "https://www.wsj.com/articles/u-s-to-impose-new-sanctions-on-russia-over-nerve-agent-attack-in-u-k-1533757595",
+    "urlToImage": "https://images.wsj.net/im-21421/social",
+    "publishedAt": "2018-08-08T19:49:41Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "TED WIDMER",
+    "title": "How Nixon Came Back",
+    "description": "Richard Nixon accepting the nomination for president at the Republican National Convention in Miami Beach on Aug. 8, 1968.",
+    "url": "https://www.nytimes.com/2018/08/08/opinion/how-nixon-came-back.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/08/opinion/08Widmer/08Widmer-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:42:25Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "HAYLEY PHELAN",
+    "title": "Browsing: 15 Gifts to Make Your Host Smile",
+    "description": "Here, a batch of items that are sure to get you invited back to your friend’s summer house.",
+    "url": "https://www.nytimes.com/2018/08/08/style/gifts-for-hosts-summer-home.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/09/fashion/09BROWSING-COMBO/09BROWSING-COMBO-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:42:09Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": null,
+    "title": "Watch Out, America: 'Love Island' Is Coming - New York Times",
+    "description": "New York Times Watch Out, America: 'Love Island' Is Coming New York Times “Love Island” — a British reality TV show that has become a cultural phenomenon — is heading to the United States. CBS has bought the rights to make a United States version of the show,…",
+    "url": "https://www.nytimes.com/2018/08/08/arts/television/love-island-cbs.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/10/arts/10loveisland-australia/10loveisland-australia-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:36:32Z"
+  }, {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Rebecca Ballhaus",
+    "title": "The Wall Street Journal: Rand Paul delivers Trump letter to Putin during Moscow visit",
+    "description": "Sen. Rand Paul said Wednesday that he delivered a letter from President Trump to Vladimir Putin during his trip to Moscow this week, a move that comes amid heightened scrutiny of the president’s relationship with the Russian leader.",
+    "url": "https://www.wsj.com/articles/rand-paul-delivers-letter-from-trump-to-putin-during-moscow-trip-1533752234?mod=mktw",
+    "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-GD425_rand_p_ZG_20180209072045.jpg",
+    "publishedAt": "2018-08-08T19:35:40Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "RICHARD SANDOMIR",
+    "title": "Alan Rabinowitz, Conservationist of Wild Cats, Dies at 64",
+    "description": "Alan Rabinowitz with two Siberian tigers at the Bronx Zoo in 2007. He established the world’s first jaguar preserve, in Belize, and a vast tiger preserve in Myanmar.",
+    "url": "https://www.nytimes.com/2018/08/08/obituaries/alan-rabinowitz-conservationist-of-wild-cats-dies-at-64.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/08/obituaries/08RABINOWITZ1/08RABINOWITZ1-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:15:35Z"
+  }, {
+    "source": {
+      "id": "the-new-york-times",
+      "name": "The New York Times"
+    },
+    "author": "DON J. MELNICK, MARY C. PEARL and MARK A. COCHRANE",
+    "title": "The Earth Ablaze",
+    "description": "Are we locked in a worldwide pattern of persistent and catastrophic wildfires?",
+    "url": "https://www.nytimes.com/2018/08/08/opinion/wildfires-california-climate-change.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/07/opinion/08Melnick/merlin_141928866_4065b9eb-dcaa-47a5-b5c7-2755f2cba9f3-facebookJumbo.jpg",
+    "publishedAt": "2018-08-08T19:12:05Z"
+  }]
+}
